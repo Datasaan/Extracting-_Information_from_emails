@@ -1,0 +1,52 @@
+[
+  {
+    "firstname": "Fran",
+    "email": "fran.mayes@enron.com",
+    "additionalDetails": {
+      "lastname": "Mayes",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Brian",
+    "email": "brian.redmond@enron.com",
+    "additionalDetails": {
+      "lastname": "Redmond",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Michelle",
+    "email": "michelle.cash@enron.com",
+    "additionalDetails": {
+      "lastname": "Cash",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "David",
+    "email": "david.oxley@enron.com",
+    "additionalDetails": {
+      "lastname": "Oxley",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

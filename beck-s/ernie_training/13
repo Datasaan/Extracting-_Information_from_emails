@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "Enron",
+    "email": "enron.announcements@enron.com",
+    "additionalDetails": {
+      "lastname": "Announcements",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ENA",
+    "email": "ena.supervisors1@enron.com",
+    "additionalDetails": {
+      "lastname": "Supervisors1",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ENA",
+    "email": "ena.supervisors2@enron.com",
+    "additionalDetails": {
+      "lastname": "Supervisors2",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

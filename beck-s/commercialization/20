@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "Rahil",
+    "email": "rahil.jafry@enron.com",
+    "additionalDetails": {
+      "lastname": "Jafry",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Beth",
+    "email": "beth.apollo@enron.com",
+    "additionalDetails": {
+      "lastname": "Apollo",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Fred",
+    "email": "fred.philipson@enron.com",
+    "additionalDetails": {
+      "lastname": "Philipson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Rex",
+    "email": "rex.shelby@enron.com",
+    "additionalDetails": {
+      "lastname": "Shelby",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Greg",
+    "email": "greg.piper@enron.com",
+    "additionalDetails": {
+      "lastname": "Piper",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Stephen",
+    "email": "stephen.abbanat@enron.com",
+    "additionalDetails": {
+      "lastname": "Abbanat",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

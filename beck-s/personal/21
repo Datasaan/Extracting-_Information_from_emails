@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Cindy White",
+    "email": "cwhite@viviance.com",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

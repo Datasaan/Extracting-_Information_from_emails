@@ -1,0 +1,12 @@
+[
+  {
+    "firstname": "Richard",
+    "email": "richard.ingersoll@enron.com",
+    "additionalDetails": {
+      "lastname": "Ingersoll",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

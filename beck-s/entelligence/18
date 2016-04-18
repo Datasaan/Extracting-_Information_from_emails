@@ -1,0 +1,122 @@
+[
+  {
+    "firstname": "Peggy",
+    "email": "peggy.alix@enron.com",
+    "additionalDetails": {
+      "lastname": "Alix",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Mary",
+    "email": "mary.solmonson@enron.com",
+    "additionalDetails": {
+      "lastname": "Solmonson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Lynette",
+    "email": "lynette.malone@enron.com",
+    "additionalDetails": {
+      "lastname": "Malone",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Eric",
+    "email": "eric.wetterstroem@enron.com",
+    "additionalDetails": {
+      "lastname": "Wetterstroem",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Peggy",
+    "email": "peggy.alix@enron.com",
+    "additionalDetails": {
+      "lastname": "Alix",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Susan",
+    "email": "susan.marshall@enron.com",
+    "additionalDetails": {
+      "lastname": "Marshall",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Leei-Hong",
+    "email": "leei-hong.chen@enron.com",
+    "additionalDetails": {
+      "lastname": "Chen",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Cindy",
+    "email": "cindy.wisemiller@enron.com",
+    "additionalDetails": {
+      "lastname": "Wisemiller",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jennifer",
+    "email": "jennifer.fraser@enron.com",
+    "additionalDetails": {
+      "lastname": "Fraser",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Vanessa",
+    "email": "vanessa.lehn@enron.com",
+    "additionalDetails": {
+      "lastname": "Lehn",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Inja",
+    "email": "inja.chun@enron.com",
+    "additionalDetails": {
+      "lastname": "Chun",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

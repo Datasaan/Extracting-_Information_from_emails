@@ -1,0 +1,62 @@
+[
+  {
+    "firstname": "Cassandra",
+    "email": "cassandra.schultz@enron.com",
+    "additionalDetails": {
+      "lastname": "Schultz",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Joseph",
+    "email": "joseph.hirl@enron.com",
+    "additionalDetails": {
+      "lastname": "Hirl",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Heidi",
+    "email": "heidi.mason@enron.com",
+    "additionalDetails": {
+      "lastname": "Mason",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Carol",
+    "email": "carol.howes@enron.com",
+    "additionalDetails": {
+      "lastname": "Howes",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Scott",
+    "email": "scott.gilchrist@enron.com",
+    "additionalDetails": {
+      "lastname": "Gilchrist",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Michael",
+    "email": "michael.gantt@enron.com",
+    "additionalDetails": {
+      "lastname": "Gantt",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "firstname": "D",
+    "email": "d.hall@enron.com",
+    "additionalDetails": {
+      "lastname": "Todd",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Gregor",
+    "email": "gregor.baumerich@enron.com",
+    "additionalDetails": {
+      "lastname": "Baumerich",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Paul",
+    "email": "paul.mead@enron.com",
+    "additionalDetails": {
+      "lastname": "Mead",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Joe",
+    "email": "joe.gold@enron.com",
+    "additionalDetails": {
+      "lastname": "Gold",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "James",
+    "email": "james.new@enron.com",
+    "additionalDetails": {
+      "lastname": "New",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Neil",
+    "email": "neil.tarling@enron.com",
+    "additionalDetails": {
+      "lastname": "Tarling",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Pablo",
+    "email": "pablo.pissanetzky@enron.com",
+    "additionalDetails": {
+      "lastname": "Pissanetzky",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

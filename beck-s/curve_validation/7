@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "James",
+    "email": "james.new@enron.com",
+    "additionalDetails": {
+      "lastname": "New",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "John",
+    "email": "john.sherriff@enron.com",
+    "additionalDetails": {
+      "lastname": "Sherriff",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Richard",
+    "email": "richard.lewis@enron.com",
+    "additionalDetails": {
+      "lastname": "Lewis",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Fernley",
+    "email": "fernley.dyson@enron.com",
+    "additionalDetails": {
+      "lastname": "Dyson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "David",
+    "email": "david.port@enron.com",
+    "additionalDetails": {
+      "lastname": "Port",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Michael",
+    "email": "michael.moscoso@enron.com",
+    "additionalDetails": {
+      "lastname": "Moscoso",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

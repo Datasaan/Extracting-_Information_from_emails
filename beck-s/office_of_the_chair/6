@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Office",
+    "email": "office.chairman@enron.com",
+    "additionalDetails": {
+      "lastname": "of",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ClickatHome",
+    "email": "clickathome.mailout@enron.com",
+    "additionalDetails": {
+      "lastname": "mailout",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

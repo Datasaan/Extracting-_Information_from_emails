@@ -1,0 +1,152 @@
+[
+  {
+    "firstname": "Marvia",
+    "email": "marvia.jefferson@enron.com",
+    "additionalDetails": {
+      "lastname": "Jefferson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kim",
+    "email": "kim.theriot@enron.com",
+    "additionalDetails": {
+      "lastname": "Theriot",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Larry",
+    "email": "larry.hunter@enron.com",
+    "additionalDetails": {
+      "lastname": "Hunter",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Bryce",
+    "email": "bryce.baxter@enron.com",
+    "additionalDetails": {
+      "lastname": "Baxter",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Bob",
+    "email": "bob.hall@enron.com",
+    "additionalDetails": {
+      "lastname": "Hall",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Mechelle",
+    "email": "mechelle.stevens@enron.com",
+    "additionalDetails": {
+      "lastname": "Stevens",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Leslie",
+    "email": "leslie.reeves@enron.com",
+    "additionalDetails": {
+      "lastname": "Reeves",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "James",
+    "email": "james.scribner@enron.com",
+    "additionalDetails": {
+      "lastname": "Scribner",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Zionette",
+    "email": "zionette.vincent@enron.com",
+    "additionalDetails": {
+      "lastname": "Vincent",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Dorothy",
+    "email": "dorothy.dade@enron.com",
+    "additionalDetails": {
+      "lastname": "Dade",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Heather",
+    "email": "heather.choate@enron.com",
+    "additionalDetails": {
+      "lastname": "Choate",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Patti",
+    "email": "patti.thompson@enron.com",
+    "additionalDetails": {
+      "lastname": "Thompson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Adrial",
+    "email": "adrial.boals@enron.com",
+    "additionalDetails": {
+      "lastname": "Boals",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Yolanda",
+    "email": "yolanda.pena@enron.com",
+    "additionalDetails": {
+      "lastname": "Pena",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "firstname": "Brenda",
+    "email": "brenda.herod@enron.com",
+    "additionalDetails": {
+      "lastname": "Herod",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Raymond",
+    "email": "raymond.bowen@enron.com",
+    "additionalDetails": {
+      "lastname": "Bowen",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jeffrey",
+    "email": "jeffrey.mcmahon@enron.com",
+    "additionalDetails": {
+      "lastname": "McMahon",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kent",
+    "email": "kent.castleman@enron.com",
+    "additionalDetails": {
+      "lastname": "Castleman",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Robert",
+    "email": "robert.scheuer@enron.com",
+    "additionalDetails": {
+      "lastname": "Scheuer",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Michael",
+    "email": "michael.moscoso@enron.com",
+    "additionalDetails": {
+      "lastname": "Moscoso",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Romney",
+    "email": "romney.ruder@enron.com",
+    "additionalDetails": {
+      "lastname": "Ruder",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Delmar",
+    "email": "delmar.davis@enron.com",
+    "additionalDetails": {
+      "lastname": "Davis",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

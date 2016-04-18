@@ -1,0 +1,12 @@
+[
+  {
+    "firstname": "Erwin",
+    "email": "erwin.landivar@enron.com",
+    "additionalDetails": {
+      "lastname": "Landivar",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

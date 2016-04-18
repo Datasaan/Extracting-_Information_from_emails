@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Enron",
+    "email": "enron.announcements@enron.com",
+    "additionalDetails": {
+      "lastname": "Announcements",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Everyone_in_ECT_Houston",
+    "email": "everyone_in_ect_houston@enron.com",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

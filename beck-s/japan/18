@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "Patti",
+    "email": "patti.thompson@enron.com",
+    "additionalDetails": {
+      "lastname": "Thompson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Joseph",
+    "email": "joseph.hirl@enron.com",
+    "additionalDetails": {
+      "lastname": "Hirl",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Greg",
+    "email": "greg.whalley@enron.com",
+    "additionalDetails": {
+      "lastname": "Whalley",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Ted",
+    "email": "ted.murphy@enron.com",
+    "additionalDetails": {
+      "lastname": "Murphy",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Susan",
+    "email": "susan.musch@enron.com",
+    "additionalDetails": {
+      "lastname": "Musch",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "William",
+    "email": "william.bradford@enron.com",
+    "additionalDetails": {
+      "lastname": "Bradford",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

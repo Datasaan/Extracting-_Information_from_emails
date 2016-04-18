@@ -1,0 +1,122 @@
+[
+  {
+    "firstname": "Matt",
+    "email": "matt.motsinger@enron.com",
+    "additionalDetails": {
+      "lastname": "Motsinger",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Louise",
+    "email": "louise.kitchen@enron.com",
+    "additionalDetails": {
+      "lastname": "Kitchen",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "David",
+    "email": "david.forster@enron.com",
+    "additionalDetails": {
+      "lastname": "Forster",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kimberly",
+    "email": "kimberly.hillis@enron.com",
+    "additionalDetails": {
+      "lastname": "Hillis",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jeffrey",
+    "email": "jeffrey.shankman@enron.com",
+    "additionalDetails": {
+      "lastname": "Shankman",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Lorraine",
+    "email": "lorraine.becker@enron.com",
+    "additionalDetails": {
+      "lastname": "Becker",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Leonardo",
+    "email": "leonardo.pacheco@enron.com",
+    "additionalDetails": {
+      "lastname": "Pacheco",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sheri",
+    "email": "sheri.thomas@enron.com",
+    "additionalDetails": {
+      "lastname": "Thomas",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Torrey",
+    "email": "torrey.moorer@enron.com",
+    "additionalDetails": {
+      "lastname": "Moorer",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jennifer",
+    "email": "jennifer.denny@enron.com",
+    "additionalDetails": {
+      "lastname": "Denny",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Peter",
+    "email": "peter.berzins@enron.com",
+    "additionalDetails": {
+      "lastname": "Berzins",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "firstname": "Glenn",
+    "email": "sprenger@alumni.utexas.net",
+    "additionalDetails": {
+      "lastname": "Sprenger",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Katie",
+    "email": "katie.george@bus.utexas.edu",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Davis",
+    "email": "davis.paddock@bus.utexas.edu",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jeremy",
+    "email": "jeremy.giles@bus.utexas.edu",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jacob",
+    "email": "jacob.walter@bus.utexas.edu",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jon",
+    "email": "jon.ruggles@bus.utexas.edu",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

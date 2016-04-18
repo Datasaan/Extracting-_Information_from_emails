@@ -1,0 +1,132 @@
+[
+  {
+    "firstname": "Brenda",
+    "email": "brenda.herod@enron.com",
+    "additionalDetails": {
+      "lastname": "Herod",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Brian",
+    "email": "brian.redmond@enron.com",
+    "additionalDetails": {
+      "lastname": "Redmond",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Edward",
+    "email": "edward.gottlob@enron.com",
+    "additionalDetails": {
+      "lastname": "Gottlob",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jim",
+    "email": "jim.coffey@enron.com",
+    "additionalDetails": {
+      "lastname": "Coffey",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Melissa",
+    "email": "melissa.graves@enron.com",
+    "additionalDetails": {
+      "lastname": "Graves",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Rita",
+    "email": "rita.wynne@enron.com",
+    "additionalDetails": {
+      "lastname": "Wynne",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Lisa",
+    "email": "lisa.csikos@enron.com",
+    "additionalDetails": {
+      "lastname": "Csikos",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Nathan",
+    "email": "nathan.hlavaty@enron.com",
+    "additionalDetails": {
+      "lastname": "Hlavaty",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Johnnie",
+    "email": "johnnie.williams@enron.com",
+    "additionalDetails": {
+      "lastname": "Williams",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Emma",
+    "email": "emma.welsch@enron.com",
+    "additionalDetails": {
+      "lastname": "Welsch",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Ryan",
+    "email": "ryan.hinze@enron.com",
+    "additionalDetails": {
+      "lastname": "Hinze",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Clem",
+    "email": "clem.cernosek@enron.com",
+    "additionalDetails": {
+      "lastname": "Cernosek",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

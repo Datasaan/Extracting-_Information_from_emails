@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "Eric",
+    "email": "eric.gadd@enron.com",
+    "additionalDetails": {
+      "lastname": "Gadd",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Esther",
+    "email": "esther.gerratt@enron.com",
+    "additionalDetails": {
+      "lastname": "Gerratt",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

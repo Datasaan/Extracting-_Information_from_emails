@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "Hector",
+    "email": "hector.mcloughlin@enron.com",
+    "additionalDetails": {
+      "lastname": "McLoughlin",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Bob",
+    "email": "bob.hall@enron.com",
+    "additionalDetails": {
+      "lastname": "Hall",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sheila",
+    "email": "sheila.walton@enron.com",
+    "additionalDetails": {
+      "lastname": "Walton",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Francisco",
+    "email": "francisco.dejesus@enron.com",
+    "additionalDetails": {
+      "lastname": "deJesus",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "AnneMarie",
+    "email": "annemarie.allex@enron.com",
+    "additionalDetails": {
+      "lastname": "Allex",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Janet",
+    "email": "janet.paz@enron.com",
+    "additionalDetails": {
+      "lastname": "De",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

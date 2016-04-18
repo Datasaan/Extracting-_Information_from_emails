@@ -1,0 +1,12 @@
+[
+  {
+    "firstname": "Kent",
+    "email": "kent.castleman@enron.com",
+    "additionalDetails": {
+      "lastname": "Castleman",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "Cassandra",
+    "email": "cassandra.schultz@enron.com",
+    "additionalDetails": {
+      "lastname": "Schultz",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Joseph",
+    "email": "joseph.hirl@enron.com",
+    "additionalDetails": {
+      "lastname": "Hirl",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Carol",
+    "email": "carol.howes@enron.com",
+    "additionalDetails": {
+      "lastname": "Howes",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

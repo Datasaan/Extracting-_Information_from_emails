@@ -1,0 +1,42 @@
+[
+  {
+    "firstname": "Federico",
+    "email": "federico.cerisoli@enron.com",
+    "additionalDetails": {
+      "lastname": "Cerisoli",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Patti",
+    "email": "patti.thompson@enron.com",
+    "additionalDetails": {
+      "lastname": "Thompson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Nadia",
+    "email": "nadia.rodriguez@enron.com",
+    "additionalDetails": {
+      "lastname": "Rodriguez",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

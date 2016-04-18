@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Ken",
+    "email": "ken.skilling@enron.com",
+    "additionalDetails": {
+      "lastname": "Lay",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "All",
+    "email": "all.worldwide@enron.com",
+    "additionalDetails": {
+      "lastname": "Worldwide",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

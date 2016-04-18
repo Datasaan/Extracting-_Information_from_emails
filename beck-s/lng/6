@@ -1,0 +1,92 @@
+[
+  {
+    "firstname": "Scott",
+    "email": "scott.earnest@enron.com",
+    "additionalDetails": {
+      "lastname": "Earnest",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Ted",
+    "email": "ted.murphy@enron.com",
+    "additionalDetails": {
+      "lastname": "Murphy",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Vince",
+    "email": "vince.kaminski@enron.com",
+    "additionalDetails": {
+      "lastname": "Kaminski",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Tani",
+    "email": "tani.nath@enron.com",
+    "additionalDetails": {
+      "lastname": "Nath",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Dale",
+    "email": "dale.surbey@enron.com",
+    "additionalDetails": {
+      "lastname": "Surbey",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Dale",
+    "email": "dale.surbey@enron.com",
+    "additionalDetails": {
+      "lastname": "Surbey",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Eric",
+    "email": "eric.groves@enron.com",
+    "additionalDetails": {
+      "lastname": "Groves",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Bjorn",
+    "email": "bjorn.hagelmann@enron.com",
+    "additionalDetails": {
+      "lastname": "Hagelmann",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "firstname": "Linda",
+    "email": "linda.ng@enron.com",
+    "additionalDetails": {
+      "lastname": "Ng",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Wanda",
+    "email": "wanda.curry@enron.com",
+    "additionalDetails": {
+      "lastname": "Curry",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Larry",
+    "email": "larry.burton@enron.com",
+    "additionalDetails": {
+      "lastname": "Burton",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Richard",
+    "email": "richard.causey@enron.com",
+    "additionalDetails": {
+      "lastname": "Causey",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Rob",
+    "email": "rob.gatling@enron.com",
+    "additionalDetails": {
+      "lastname": "Gatling",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Gerry",
+    "email": "gerry.chatham@enron.com",
+    "additionalDetails": {
+      "lastname": "Chatham",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Joe",
+    "email": "joe.kishkill@enron.com",
+    "additionalDetails": {
+      "lastname": "Kishkill",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Miguel",
+    "email": "miguel.padron@enron.com",
+    "additionalDetails": {
+      "lastname": "Padron",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

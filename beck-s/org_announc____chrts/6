@@ -1,0 +1,52 @@
+[
+  {
+    "firstname": "Enron",
+    "email": "enron.announcement@enron.com",
+    "additionalDetails": {
+      "lastname": "Europe",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ECT",
+    "email": "ect.europe@enron.com",
+    "additionalDetails": {
+      "lastname": "Europe",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Enron",
+    "email": "enron.1@enron.com",
+    "additionalDetails": {
+      "lastname": "1",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Enron",
+    "email": "enron.2@enron.com",
+    "additionalDetails": {
+      "lastname": "2",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Enron",
+    "email": "enron.committee@enron.com",
+    "additionalDetails": {
+      "lastname": "Committee",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

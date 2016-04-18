@@ -1,0 +1,112 @@
+[
+  {
+    "firstname": "Karen",
+    "email": "karen.marshall@enron.com",
+    "additionalDetails": {
+      "lastname": "Marshall",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Thomas",
+    "email": "thomas.suffield@enron.com",
+    "additionalDetails": {
+      "lastname": "Suffield",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Cindy",
+    "email": "cindy.justice@enron.com",
+    "additionalDetails": {
+      "lastname": "Justice",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Celeste",
+    "email": "celeste.roberts@enron.com",
+    "additionalDetails": {
+      "lastname": "Roberts",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Charlene",
+    "email": "charlene.jackson@enron.com",
+    "additionalDetails": {
+      "lastname": "Jackson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Cindy",
+    "email": "cindy.olson@enron.com",
+    "additionalDetails": {
+      "lastname": "Olson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Richard",
+    "email": "richard.causey@enron.com",
+    "additionalDetails": {
+      "lastname": "Causey",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "David",
+    "email": "david.haug@enron.com",
+    "additionalDetails": {
+      "lastname": "Haug",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Elyse",
+    "email": "elyse.kalmans@enron.com",
+    "additionalDetails": {
+      "lastname": "Kalmans",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Karen",
+    "email": "karen.marshall@enron.com",
+    "additionalDetails": {
+      "lastname": "Marshall",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

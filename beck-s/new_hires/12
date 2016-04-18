@@ -1,0 +1,92 @@
+[
+  {
+    "firstname": "Shannon",
+    "email": "shannon.rodgers@enron.com",
+    "additionalDetails": {
+      "lastname": "Rodgers",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Charlene",
+    "email": "charlene.jackson@enron.com",
+    "additionalDetails": {
+      "lastname": "Jackson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Celeste",
+    "email": "celeste.roberts@enron.com",
+    "additionalDetails": {
+      "lastname": "Roberts",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Ginger",
+    "email": "ginger.gamble@enron.com",
+    "additionalDetails": {
+      "lastname": "Gamble",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Shelly",
+    "email": "shelly.jones@enron.com",
+    "additionalDetails": {
+      "lastname": "Jones",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Lynn",
+    "email": "lynn.dunphy@enron.com",
+    "additionalDetails": {
+      "lastname": "Dunphy",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sarah",
+    "email": "sarah.davis@enron.com",
+    "additionalDetails": {
+      "lastname": "Davis",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Molly",
+    "email": "molly.magee@enron.com",
+    "additionalDetails": {
+      "lastname": "Magee",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

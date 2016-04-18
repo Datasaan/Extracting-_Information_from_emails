@@ -1,0 +1,82 @@
+[
+  {
+    "firstname": "Marvia",
+    "email": "marvia.jefferson@enron.com",
+    "additionalDetails": {
+      "lastname": "Jefferson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Bob",
+    "email": "bob.hall@enron.com",
+    "additionalDetails": {
+      "lastname": "Hall",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Patti",
+    "email": "patti.thompson@enron.com",
+    "additionalDetails": {
+      "lastname": "Thompson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Chantelle",
+    "email": "chantelle.villanueva@enron.com",
+    "additionalDetails": {
+      "lastname": "Villanueva",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Mary",
+    "email": "mary.solmonson@enron.com",
+    "additionalDetails": {
+      "lastname": "Solmonson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Lisa",
+    "email": "lisa.petruszka@enron.com",
+    "additionalDetails": {
+      "lastname": "Petruszka",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Margarite",
+    "email": "margarite.cunningham@enron.com",
+    "additionalDetails": {
+      "lastname": "Cunningham",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

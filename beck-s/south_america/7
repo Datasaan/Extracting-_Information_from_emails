@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "Michael",
+    "email": "michael.guerriero@enron.com",
+    "additionalDetails": {
+      "lastname": "Guerriero",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kate",
+    "email": "kate.agnew@enron.com",
+    "additionalDetails": {
+      "lastname": "Agnew",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Joe",
+    "email": "joe.kishkill@enron.com",
+    "additionalDetails": {
+      "lastname": "Kishkill",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kent",
+    "email": "kent.castleman@enron.com",
+    "additionalDetails": {
+      "lastname": "Castleman",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Ted",
+    "email": "ted.murphy@enron.com",
+    "additionalDetails": {
+      "lastname": "Murphy",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "John",
+    "email": "john.sorrells@enron.com",
+    "additionalDetails": {
+      "lastname": "Sorrells",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

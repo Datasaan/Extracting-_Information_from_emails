@@ -1,0 +1,12 @@
+[
+  {
+    "firstname": "David",
+    "email": "david.ricafrente@enron.com",
+    "additionalDetails": {
+      "lastname": "Ricafrente",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

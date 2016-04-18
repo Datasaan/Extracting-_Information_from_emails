@@ -1,0 +1,42 @@
+[
+  {
+    "firstname": "Nosheen",
+    "email": "nosheen.ali@enron.com",
+    "additionalDetails": {
+      "lastname": "Ali",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ECT",
+    "email": "ect.output@enron.com",
+    "additionalDetails": {
+      "lastname": "Output",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Michael",
+    "email": "michael.farmer@enron.com",
+    "additionalDetails": {
+      "lastname": "Farmer",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Buddy",
+    "email": "buddy.aiken@enron.com",
+    "additionalDetails": {
+      "lastname": "Aiken",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

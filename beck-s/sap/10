@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "Melissa",
+    "email": "melissa.becker@enron.com",
+    "additionalDetails": {
+      "lastname": "Becker",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ENRON",
+    "email": "enron.council@enron.com",
+    "additionalDetails": {
+      "lastname": "COUNCIL",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Enron",
+    "email": "enron.admins@enron.com",
+    "additionalDetails": {
+      "lastname": "Apollo",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

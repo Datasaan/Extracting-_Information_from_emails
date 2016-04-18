@@ -1,0 +1,12 @@
+[
+  {
+    "firstname": "Jason",
+    "email": "jason.ware@bus.utexas.edu",
+    "additionalDetails": {
+      "lastname": "Ware",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Grant",
+    "email": "grant.zimmerman@enron.com",
+    "additionalDetails": {
+      "lastname": "Zimmerman",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

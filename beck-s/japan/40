@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Araceli",
+    "email": "araceli.romero@enron.com",
+    "additionalDetails": {
+      "lastname": "Romero",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Carol",
+    "email": "carol.howes@enron.com",
+    "additionalDetails": {
+      "lastname": "Howes",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

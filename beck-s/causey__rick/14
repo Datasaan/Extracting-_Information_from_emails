@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "Sharron",
+    "email": "sharron.westbrook@enron.com",
+    "additionalDetails": {
+      "lastname": "Westbrook",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Melissa",
+    "email": "melissa.becker@enron.com",
+    "additionalDetails": {
+      "lastname": "Becker",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "George",
+    "email": "george.wasaff@enron.com",
+    "additionalDetails": {
+      "lastname": "Wasaff",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Margarite",
+    "email": "margarite.cunningham@enron.com",
+    "additionalDetails": {
+      "lastname": "Cunningham",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Patti",
+    "email": "patti.thompson@enron.com",
+    "additionalDetails": {
+      "lastname": "Thompson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Karina",
+    "email": "karina.prizont@enron.com",
+    "additionalDetails": {
+      "lastname": "Prizont",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "firstname": "George",
+    "email": "george.hope@enron.com",
+    "additionalDetails": {
+      "lastname": "Hope",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Steve",
+    "email": "steve.venturatos@enron.com",
+    "additionalDetails": {
+      "lastname": "Venturatos",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jody",
+    "email": "jody.crook@enron.com",
+    "additionalDetails": {
+      "lastname": "Crook",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Bob",
+    "email": "bob.klein@enron.com",
+    "additionalDetails": {
+      "lastname": "Klein",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Michael",
+    "email": "michael.benien@enron.com",
+    "additionalDetails": {
+      "lastname": "Benien",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Justin",
+    "email": "justin.o'malley@enron.com",
+    "additionalDetails": {
+      "lastname": "O'Malley",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Angie",
+    "email": "angie.zeman@enron.com",
+    "additionalDetails": {
+      "lastname": "Zeman",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Elmo",
+    "email": "elmo.gore@enron.com",
+    "additionalDetails": {
+      "lastname": "Gore",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Clifton",
+    "email": "clifton.franklin@enron.com",
+    "additionalDetails": {
+      "lastname": "Franklin",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Lauren",
+    "email": "lauren.schlesinger@enron.com",
+    "additionalDetails": {
+      "lastname": "Schlesinger",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

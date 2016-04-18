@@ -1,0 +1,102 @@
+[
+  {
+    "firstname": "Greg",
+    "email": "greg.nikkel@enron.com",
+    "additionalDetails": {
+      "lastname": "Nikkel",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ENRON",
+    "email": "enron.council@enron.com",
+    "additionalDetails": {
+      "lastname": "APOLLO",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Donald",
+    "email": "donald.sullivan@enron.com",
+    "additionalDetails": {
+      "lastname": "Sullivan",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Rebecca",
+    "email": "rebecca.miles@enron.com",
+    "additionalDetails": {
+      "lastname": "Miles",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Andreas",
+    "email": "andreas.kraus@enron.com",
+    "additionalDetails": {
+      "lastname": "Kraus",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Randy",
+    "email": "randy.parman@enron.com",
+    "additionalDetails": {
+      "lastname": "Parman",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Maria",
+    "email": "maria.young@enron.com",
+    "additionalDetails": {
+      "lastname": "Young",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kim",
+    "email": "kim.lesley@enron.com",
+    "additionalDetails": {
+      "lastname": "Lesley",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Susan",
+    "email": "susan.bellinghausen@enron.com",
+    "additionalDetails": {
+      "lastname": "Bellinghausen",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Emitra",
+    "email": "emitra.nelson@enron.com",
+    "additionalDetails": {
+      "lastname": "Nelson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

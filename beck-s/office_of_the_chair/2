@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Office",
+    "email": "office.llc@enron.com",
+    "additionalDetails": {
+      "lastname": "of",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ENW-Employees_Houston",
+    "email": "enw-employees_houston@enron.com",
+    "additionalDetails": {
+      "lastname": "NA",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

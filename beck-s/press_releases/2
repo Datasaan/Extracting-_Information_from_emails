@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "Office",
+    "email": "office.chairman@enron.com",
+    "additionalDetails": {
+      "lastname": "of",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "All_Enron_North",
+    "email": "all_enron_north.america@enron.com",
+    "additionalDetails": {
+      "lastname": "America",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "EC",
+    "email": "ec.communications@enron.com",
+    "additionalDetails": {
+      "lastname": "Employees",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

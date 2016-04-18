@@ -1,0 +1,92 @@
+[
+  {
+    "firstname": "Melissa",
+    "email": "melissa.becker@enron.com",
+    "additionalDetails": {
+      "lastname": "Becker",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ENRON",
+    "email": "enron.council@enron.com",
+    "additionalDetails": {
+      "lastname": "COUNCIL",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Enron",
+    "email": "enron.council@enron.com",
+    "additionalDetails": {
+      "lastname": "Council",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Enron",
+    "email": "enron.managers@enron.com",
+    "additionalDetails": {
+      "lastname": "Apollo",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Enron",
+    "email": "enron.admins@enron.com",
+    "additionalDetails": {
+      "lastname": "Admins",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Enron",
+    "email": "enron.assistants@enron.com",
+    "additionalDetails": {
+      "lastname": "Assistants",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Janet",
+    "email": "janet.tran@enron.com",
+    "additionalDetails": {
+      "lastname": "Tran",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kathy",
+    "email": "kathy.kokas@enron.com",
+    "additionalDetails": {
+      "lastname": "Kokas",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Andrea",
+    "email": "andrea.yowman@enron.com",
+    "additionalDetails": {
+      "lastname": "Yowman",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

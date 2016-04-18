@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Enron",
+    "email": "enron.announcements@enron.com",
+    "additionalDetails": {
+      "lastname": "Announcements",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "PRC",
+    "email": "prc.distribution@enron.com",
+    "additionalDetails": {
+      "lastname": "Distribution",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

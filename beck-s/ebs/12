@@ -1,0 +1,102 @@
+[
+  {
+    "firstname": "Scott",
+    "email": "scott.pleus@enron.com",
+    "additionalDetails": {
+      "lastname": "Pleus",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Denae",
+    "email": "denae.umbower@enron.com",
+    "additionalDetails": {
+      "lastname": "Umbower",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jeremy",
+    "email": "jeremy.mills@enron.com",
+    "additionalDetails": {
+      "lastname": "Mills",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kristina",
+    "email": "kristina.lund@enron.com",
+    "additionalDetails": {
+      "lastname": "Lund",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Jay",
+    "email": "jay.hawthorn@enron.com",
+    "additionalDetails": {
+      "lastname": "Hawthorn",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Tom",
+    "email": "tom.huntington@enron.com",
+    "additionalDetails": {
+      "lastname": "Huntington",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Rob",
+    "email": "rob.mcdonald@enron.com",
+    "additionalDetails": {
+      "lastname": "McDonald",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Mitch",
+    "email": "mitch.olson@enron.com",
+    "additionalDetails": {
+      "lastname": "Olson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Ted",
+    "email": "ted.seitz@enron.com",
+    "additionalDetails": {
+      "lastname": "Seitz",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

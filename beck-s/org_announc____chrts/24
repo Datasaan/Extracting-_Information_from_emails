@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Public",
+    "email": "public.relations@enron.com",
+    "additionalDetails": {
+      "lastname": "Relations",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "All",
+    "email": "all.worldwide@enron.com",
+    "additionalDetails": {
+      "lastname": "Worldwide",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

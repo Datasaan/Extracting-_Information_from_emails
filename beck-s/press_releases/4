@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Press",
+    "email": "press.release@enron.com",
+    "additionalDetails": {
+      "lastname": "Release",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "All",
+    "email": "all.worldwide@enron.com",
+    "additionalDetails": {
+      "lastname": "Worldwide",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

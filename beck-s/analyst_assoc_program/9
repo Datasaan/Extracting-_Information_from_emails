@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "Enron",
+    "email": "enron.announcements@enron.com",
+    "additionalDetails": {
+      "lastname": "Announcements",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "A&A",
+    "email": "a&a.leads@enron.com",
+    "additionalDetails": {
+      "lastname": "Leads",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "A&A",
+    "email": "a&a.reps@enron.com",
+    "additionalDetails": {
+      "lastname": "Reps",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "A&A",
+    "email": "a&a.reps@enron.com",
+    "additionalDetails": {
+      "lastname": "Reps",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "A&A",
+    "email": "a&a.1@enron.com",
+    "additionalDetails": {
+      "lastname": "1",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "A&A",
+    "email": "a&a.2@enron.com",
+    "additionalDetails": {
+      "lastname": "2",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "A&A",
+    "email": "a&a.leads@enron.com",
+    "additionalDetails": {
+      "lastname": "Survey",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "firstname": "Cheryl",
+    "email": "cheryl.kuehl@enron.com",
+    "additionalDetails": {
+      "lastname": "Kuehl",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

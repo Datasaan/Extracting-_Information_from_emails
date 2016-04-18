@@ -1,0 +1,102 @@
+[
+  {
+    "firstname": "Debbie",
+    "email": "debbie.flores@enron.com",
+    "additionalDetails": {
+      "lastname": "Flores",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Cindy",
+    "email": "cindy.olson@enron.com",
+    "additionalDetails": {
+      "lastname": "Olson",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Christie",
+    "email": "christie.patrick@enron.com",
+    "additionalDetails": {
+      "lastname": "Patrick",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Bryan",
+    "email": "bryan.garrett@enron.com",
+    "additionalDetails": {
+      "lastname": "Garrett",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Grace",
+    "email": "grace.kim@enron.com",
+    "additionalDetails": {
+      "lastname": "Kim",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Elizabeth",
+    "email": "elizabeth.shim@enron.com",
+    "additionalDetails": {
+      "lastname": "Shim",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Michelle",
+    "email": "michelle.cash@enron.com",
+    "additionalDetails": {
+      "lastname": "Cash",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Sally",
+    "email": "sally.beck@enron.com",
+    "additionalDetails": {
+      "lastname": "Beck",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kelly",
+    "email": "kelly.boots@enron.com",
+    "additionalDetails": {
+      "lastname": "Boots",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Geynille",
+    "email": "geynille.dillingham@enron.com",
+    "additionalDetails": {
+      "lastname": "Dillingham",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

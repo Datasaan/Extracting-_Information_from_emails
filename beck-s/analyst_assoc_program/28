@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "Office",
+    "email": "office.chairman@enron.com",
+    "additionalDetails": {
+      "lastname": "of",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Associate",
+    "email": "associate.representatives@enron.com",
+    "additionalDetails": {
+      "lastname": "&",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Associate",
+    "email": "associate.executives@enron.com",
+    "additionalDetails": {
+      "lastname": "&",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]

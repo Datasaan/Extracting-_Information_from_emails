@@ -1,0 +1,42 @@
+[
+  {
+    "firstname": "Richard",
+    "email": "richard.sage@enron.com",
+    "additionalDetails": {
+      "lastname": "Sage",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "ECT",
+    "email": "ect.integration@enron.com",
+    "additionalDetails": {
+      "lastname": "Europe",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Camilla",
+    "email": "camilla.bydal@enron.com",
+    "additionalDetails": {
+      "lastname": "Bydal",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  },
+  {
+    "firstname": "Kevin",
+    "email": "kevin.hall@enron.com",
+    "additionalDetails": {
+      "lastname": "Hall",
+      "phone": "NA",
+      "address": "NA",
+      "company": "NA"
+    }
+  }
+]
